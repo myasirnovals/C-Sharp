@@ -1,0 +1,8 @@
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\StaticMethodsClasses\StaticMethodsClasses\bin\Debug\StaticMethodsClasses.exe.config
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\StaticMethodsClasses\StaticMethodsClasses\bin\Debug\StaticMethodsClasses.exe
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\StaticMethodsClasses\StaticMethodsClasses\bin\Debug\StaticMethodsClasses.pdb
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\StaticMethodsClasses\StaticMethodsClasses\obj\Debug\StaticMethodsClasses.csproj.AssemblyReference.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\StaticMethodsClasses\StaticMethodsClasses\obj\Debug\StaticMethodsClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\StaticMethodsClasses\StaticMethodsClasses\obj\Debug\StaticMethodsClasses.csproj.CoreCompileInputs.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\StaticMethodsClasses\StaticMethodsClasses\obj\Debug\StaticMethodsClasses.exe
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\StaticMethodsClasses\StaticMethodsClasses\obj\Debug\StaticMethodsClasses.pdb

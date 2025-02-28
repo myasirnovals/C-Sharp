@@ -1,0 +1,8 @@
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ClassesAndObejcts\ClassesAndObejcts\bin\Debug\ClassesAndObejcts.exe.config
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ClassesAndObejcts\ClassesAndObejcts\bin\Debug\ClassesAndObejcts.exe
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ClassesAndObejcts\ClassesAndObejcts\bin\Debug\ClassesAndObejcts.pdb
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ClassesAndObejcts\ClassesAndObejcts\obj\Debug\ClassesAndObejcts.csproj.AssemblyReference.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ClassesAndObejcts\ClassesAndObejcts\obj\Debug\ClassesAndObejcts.csproj.SuggestedBindingRedirects.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ClassesAndObejcts\ClassesAndObejcts\obj\Debug\ClassesAndObejcts.csproj.CoreCompileInputs.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ClassesAndObejcts\ClassesAndObejcts\obj\Debug\ClassesAndObejcts.exe
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ClassesAndObejcts\ClassesAndObejcts\obj\Debug\ClassesAndObejcts.pdb

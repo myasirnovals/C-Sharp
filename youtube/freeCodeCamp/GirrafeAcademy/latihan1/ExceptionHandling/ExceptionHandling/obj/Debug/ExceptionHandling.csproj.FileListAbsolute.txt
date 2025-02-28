@@ -1,0 +1,8 @@
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

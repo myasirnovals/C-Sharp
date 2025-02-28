@@ -1,0 +1,23 @@
+int[] nilai = { 84, 81, 56, 92, 76, 98, 72 };
+            int jmlSiswa = nilai.Length;
+
+            int nilaiTertinggi = 0; // mencari untuk nilai tertinggi dan menyimpannya
+            int nilaiTotal = 0;
+
+            for (int siswa = 0; siswa < jmlSiswa; siswa++)
+            {
+               // menjumlahkan semua nilai siswa
+               // cara ini sama saja dengan nilaiTotal = nilaiTotal + nilai[siswa];
+               nilaiTotal += nilai[siswa];
+
+               // seleksi jika nilai lebih tinggi
+               if (nilai[siswa] > nilaiTertinggi)
+               {
+                  nilaiTertinggi = nilai[siswa];
+               }
+            }
+
+            int nilaiRata = nilaiTotal / jmlSiswa;
+
+            Console.WriteLine("Nilai tertinggi di kelas adalah: "+nilaiTertinggi);
+            Console.WriteLine("Nilai rata-rata kelas adalah: "+nilaiRata);

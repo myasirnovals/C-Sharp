@@ -1,0 +1,12 @@
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\bin\Debug\net6.0\ARAdministrationAPI.deps.json
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\bin\Debug\net6.0\ARAdministrationAPI.dll
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\bin\Debug\net6.0\ARAdministrationAPI.pdb
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\obj\Debug\net6.0\ARAdministrationAPI.csproj.AssemblyReference.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\obj\Debug\net6.0\ARAdministrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\obj\Debug\net6.0\ARAdministrationAPI.AssemblyInfoInputs.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\obj\Debug\net6.0\ARAdministrationAPI.AssemblyInfo.cs
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\obj\Debug\net6.0\ARAdministrationAPI.csproj.CoreCompileInputs.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\obj\Debug\net6.0\ARAdministrationAPI.dll
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\obj\Debug\net6.0\refint\ARAdministrationAPI.dll
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\obj\Debug\net6.0\ARAdministrationAPI.pdb
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\SchoolHRAdministration\ARAdministrationAPI\obj\Debug\net6.0\ref\ARAdministrationAPI.dll

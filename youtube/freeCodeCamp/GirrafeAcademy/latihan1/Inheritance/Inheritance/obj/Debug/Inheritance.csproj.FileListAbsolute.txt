@@ -1,0 +1,8 @@
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\myasi\Documents\materi-pembelajaran\cSharp\youtube\freeCodeCamp\latihan1\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

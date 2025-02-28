@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SchoolHRAdministration/1.0.0": {
+        "dependencies": {
+          "ARAdministrationAPI": "1.0.0"
+        },
+        "runtime": {
+          "SchoolHRAdministration.dll": {}
+        }
+      },
+      "ARAdministrationAPI/1.0.0": {
+        "runtime": {
+          "ARAdministrationAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchoolHRAdministration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ARAdministrationAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

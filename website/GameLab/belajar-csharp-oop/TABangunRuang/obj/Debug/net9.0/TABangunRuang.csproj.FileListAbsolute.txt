@@ -1,0 +1,15 @@
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\obj\Debug\net9.0\TABangunRuang.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\obj\Debug\net9.0\TABangunRuang.AssemblyInfoInputs.cache
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\obj\Debug\net9.0\TABangunRuang.AssemblyInfo.cs
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\obj\Debug\net9.0\TABangunRuang.csproj.CoreCompileInputs.cache
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\obj\Debug\net9.0\TABangunRuang.sourcelink.json
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\bin\Debug\net9.0\TABangunRuang.exe
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\bin\Debug\net9.0\TABangunRuang.deps.json
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\bin\Debug\net9.0\TABangunRuang.runtimeconfig.json
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\bin\Debug\net9.0\TABangunRuang.dll
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\bin\Debug\net9.0\TABangunRuang.pdb
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\obj\Debug\net9.0\TABangunRuang.dll
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\obj\Debug\net9.0\refint\TABangunRuang.dll
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\obj\Debug\net9.0\TABangunRuang.pdb
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\obj\Debug\net9.0\TABangunRuang.genruntimeconfig.cache
+H:\Documents\materi-pembelajaran\cSharp\website\GameLab\belajar-csharp-oop\TABangunRuang\obj\Debug\net9.0\ref\TABangunRuang.dll
