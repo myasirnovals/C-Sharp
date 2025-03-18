@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TABangunRuang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de38914297e96c756c827177361219fad7911dc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f0707673a072e6c909abe7d472943b82cb136d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TABangunRuang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TABangunRuang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
