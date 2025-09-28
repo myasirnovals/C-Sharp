@@ -1,0 +1,15 @@
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\bin\Debug\net8.0\HelloWorldProgram.exe
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\bin\Debug\net8.0\HelloWorldProgram.deps.json
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\bin\Debug\net8.0\HelloWorldProgram.runtimeconfig.json
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\bin\Debug\net8.0\HelloWorldProgram.dll
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\bin\Debug\net8.0\HelloWorldProgram.pdb
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\obj\Debug\net8.0\HelloWorldProgram.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\obj\Debug\net8.0\HelloWorldProgram.AssemblyInfoInputs.cache
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\obj\Debug\net8.0\HelloWorldProgram.AssemblyInfo.cs
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\obj\Debug\net8.0\HelloWorldProgram.csproj.CoreCompileInputs.cache
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\obj\Debug\net8.0\HelloWorldProgram.sourcelink.json
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\obj\Debug\net8.0\HelloWorldProgram.dll
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\obj\Debug\net8.0\refint\HelloWorldProgram.dll
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\obj\Debug\net8.0\HelloWorldProgram.pdb
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\obj\Debug\net8.0\HelloWorldProgram.genruntimeconfig.cache
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\HelloWorldProgram\obj\Debug\net8.0\ref\HelloWorldProgram.dll
