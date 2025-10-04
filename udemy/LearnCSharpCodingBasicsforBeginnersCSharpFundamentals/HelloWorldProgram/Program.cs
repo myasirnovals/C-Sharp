@@ -30,6 +30,8 @@ namespace HelloWorldProgram
             int c = a + b;
 
             Console.WriteLine(c);
+
+            typeCastingExample();
         }
     }
 }
