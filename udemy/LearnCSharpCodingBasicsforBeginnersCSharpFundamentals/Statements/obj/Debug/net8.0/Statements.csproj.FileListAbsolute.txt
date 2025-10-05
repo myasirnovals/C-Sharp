@@ -1,0 +1,15 @@
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\bin\Debug\net8.0\Statements.exe
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\bin\Debug\net8.0\Statements.deps.json
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\bin\Debug\net8.0\Statements.runtimeconfig.json
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\bin\Debug\net8.0\Statements.dll
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\bin\Debug\net8.0\Statements.pdb
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\obj\Debug\net8.0\Statements.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\obj\Debug\net8.0\Statements.AssemblyInfoInputs.cache
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\obj\Debug\net8.0\Statements.AssemblyInfo.cs
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\obj\Debug\net8.0\Statements.csproj.CoreCompileInputs.cache
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\obj\Debug\net8.0\Statements.sourcelink.json
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\obj\Debug\net8.0\Statements.dll
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\obj\Debug\net8.0\refint\Statements.dll
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\obj\Debug\net8.0\Statements.pdb
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\obj\Debug\net8.0\Statements.genruntimeconfig.cache
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\Statements\obj\Debug\net8.0\ref\Statements.dll

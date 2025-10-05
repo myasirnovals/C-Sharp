@@ -1,0 +1,15 @@
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\bin\Debug\net8.0\OperatorsAndStrings.exe
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\bin\Debug\net8.0\OperatorsAndStrings.deps.json
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\bin\Debug\net8.0\OperatorsAndStrings.runtimeconfig.json
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\bin\Debug\net8.0\OperatorsAndStrings.dll
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\bin\Debug\net8.0\OperatorsAndStrings.pdb
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\obj\Debug\net8.0\OperatorsAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\obj\Debug\net8.0\OperatorsAndStrings.AssemblyInfoInputs.cache
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\obj\Debug\net8.0\OperatorsAndStrings.AssemblyInfo.cs
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\obj\Debug\net8.0\OperatorsAndStrings.csproj.CoreCompileInputs.cache
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\obj\Debug\net8.0\OperatorsAndStrings.sourcelink.json
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\obj\Debug\net8.0\OperatorsAndStrings.dll
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\obj\Debug\net8.0\refint\OperatorsAndStrings.dll
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\obj\Debug\net8.0\OperatorsAndStrings.pdb
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\obj\Debug\net8.0\OperatorsAndStrings.genruntimeconfig.cache
+H:\Documents\materi-pembelajaran\cSharp\udemy\LearnCSharpCodingBasicsforBeginnersCSharpFundamentals\OperatorsAndStrings\obj\Debug\net8.0\ref\OperatorsAndStrings.dll
